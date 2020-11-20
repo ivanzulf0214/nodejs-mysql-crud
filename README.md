@@ -1,4 +1,4 @@
-# nodejs-mysql-crud
+# Simple MySQL CRUD operation using Node JS
 
 ## Install Dependencies
 ```
