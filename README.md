@@ -11,7 +11,6 @@ node index
 ```
 
 ## Testing
-### Type url below on your web browser
 ```
 http://localhost:8000
 ```
